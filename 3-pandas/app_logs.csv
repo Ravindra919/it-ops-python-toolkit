@@ -299,3 +299,18 @@ timestamp,server_id,log_level,message,error_code
 2026-01-01 03:35:00,srv-04,WARNING,Disk usage at 90%,E001
 2026-01-08 03:38:00,srv-01,WARNING,CPU threshold exceeded,E004
 2026-01-06 11:07:00,srv-02,INFO,Disk usage at 90%,E002
+2026-01-01 07:26:00,srv-04,INFO,Connection timeout error,E004
+2026-01-01 03:46:00,srv-02,INFO,Database query slow,E003
+2026-01-08 16:29:00,srv-05,ERROR,CPU threshold exceeded,E001
+2026-01-04 12:34:00,srv-05,WARNING,Disk usage at 90%,
+2026-01-04 01:25:00,srv-04,CRITICAL,Authentication failed,E002
+2026-01-02 04:15:00,srv-03,INFO,Network packet loss detected,
+2026-01-01 00:52:00,srv-03,INFO,Service restarted successfully,E003
+2026-01-01 11:59:00,srv-05,WARNING,Database query slow,E003
+2026-01-08 02:45:00,srv-03,CRITICAL,Authentication failed,E001
+2026-01-10 08:48:00,srv-03,ERROR,Database query slow,E002
+2026-01-01 05:07:00,srv-01,INFO,Database query slow,E002
+2026-01-08 15:21:00,srv-04,INFO,Network packet loss detected,E004
+2026-01-08 13:18:00,srv-02,ERROR,Memory allocation failed,E002
+2026-01-01 05:36:00,srv-04,INFO,Database query slow,E001
+2026-01-03 04:09:00,srv-02,CRITICAL,Database query slow,E002
